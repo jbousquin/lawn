@@ -1,8 +1,8 @@
-#' Create a geometrycollection
+#' Create a geometrycollection feature
 #'
 #' @export
-#' @param coordinates A list of GeoJSON geometries, or in json
-#' @param properties A list of properties
+#' @param coordinates GeoJSON geometries as a list, or in json
+#' @param properties a list of properties
 #' @family data functions
 #' @return a \code{\link{data-GeometryCollection}} feature
 #' @examples
