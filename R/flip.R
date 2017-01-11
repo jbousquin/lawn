@@ -1,7 +1,7 @@
 #' Flip x,y to y,x, and vice versa
 #'
 #' @export
-#' @param input Feature of features
+#' @param input feature of features
 #' @template lint
 #' @return a \code{\link{data-Feature}} or \code{\link{data-FeatureCollection}}
 #' @examples
