@@ -4,8 +4,8 @@
 #' \code{\link{data-FeatureCollection}} with given number of features at random
 #'
 #' @export
-#' @param features A FeatureCollection
-#' @param n (integer) Number of features to generate
+#' @param features a \code{\link{data-FeatureCollection}}
+#' @param n (integer) number of features to generate
 #' @template lint
 #' @family data functions
 #' @return A \code{\link{data-FeatureCollection}}
