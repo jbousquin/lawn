@@ -4,8 +4,8 @@
 #' between them
 #'
 #' @export
-#' @param pt1 First point
-#' @param pt2 Second point
+#' @param pt1 first point
+#' @param pt2 second point
 #' @template lint
 #' @family measurements
 #' @return A \code{\link{data-Point}} midway between pt1 and pt2
