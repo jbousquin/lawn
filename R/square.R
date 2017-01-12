@@ -4,7 +4,7 @@
 #' box that would contain the input.
 #'
 #' @export
-#' @param bbox A bounding box
+#' @param bbox a bounding box
 #' @family measurements
 #' @return A square surrounding bbox, numeric vector of length four
 #' @examples
