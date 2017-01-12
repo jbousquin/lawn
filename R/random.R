@@ -6,13 +6,13 @@
 #' @export
 #'
 #' @param type type of features desired: 'points' or 'polygons'
-#' @param n (integer) Number of features to generate
-#' @param bbox A bounding box inside of which geometries are placed. In the case
+#' @param n (integer) number of features to generate
+#' @param bbox a bounding box inside of which geometries are placed. In the case
 #' of Point features, they are guaranteed to be within this bounds, while Polygon
 #' features have their centroid within the bounds.
-#' @param num_vertices	Number options.vertices the number of vertices added to
+#' @param num_vertices	number options.vertices the number of vertices added to
 #' polygon features.
-#' @param max_radial_length Number	<optional> 10	 the total number of decimal degrees
+#' @param max_radial_length number	<optional> 10	 the total number of decimal degrees
 #' longitude or latitude that a polygon can extent outwards to from its center
 #' @family data functions
 #' @return A \code{\link{data-FeatureCollection}}
