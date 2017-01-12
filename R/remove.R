@@ -6,9 +6,9 @@
 #'
 #' @export
 #'
-#' @param features A set of input features
-#' @param property Property to filter
-#' @param value Value to filter
+#' @param features a set of input features
+#' @param property property to filter
+#' @param value value to filter
 #' @template lint
 #' @family data functions
 #' @return A \code{\link{data-FeatureCollection}}
