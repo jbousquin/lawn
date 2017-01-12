@@ -10,7 +10,7 @@
 #' @param units (character) units to use for cellWidth, one of 'miles' or
 #' 'kilometers'
 #' @family interpolation
-#' @return \code{\link{data-FeatureCollection}} grid of points
+#' @return a \code{\link{data-FeatureCollection}} grid of points
 #' @examples
 #' lawn_point_grid(c(-77.3876, 38.7198, -76.9482, 39.0277), 30, 'miles')
 #' lawn_point_grid(c(-77.3876, 38.7198, -76.9482, 39.0277), 10, 'miles')
