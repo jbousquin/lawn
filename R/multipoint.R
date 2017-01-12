@@ -1,10 +1,10 @@
 #' Create a multipoint
 #'
 #' @export
-#' @param coordinates A list of point pairs, either as a list or json, of the
-#' form e.g. \code{list(c(longitude, latitude), c(longitude, latitude))} or
+#' @param coordinates a list of point pairs, either as a list or json (e.g. of the
+#' form \code{list(c(longitude, latitude), c(longitude, latitude))} OR
 #' as JSON e.g. \code{[[longitude, latitude], [longitude, latitude]]}
-#' @param properties A list of properties. Default: NULL
+#' @param properties a list of properties. Default: NULL
 #' @family data functions
 #' @return a \code{\link{data-MultiPoint}} feature
 #' @examples
