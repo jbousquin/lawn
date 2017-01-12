@@ -4,9 +4,9 @@
 #' between those points
 #'
 #' @export
-#' @param point1 Starting point
-#' @param point2 Stopping point
-#' @param line Line to slice
+#' @param point1 starting point
+#' @param point2 stopping point
+#' @param line line to slice
 #' @template lint
 #' @return a \code{\link{data-LineString}}
 #' @examples
