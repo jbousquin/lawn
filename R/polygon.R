@@ -1,8 +1,8 @@
 #' Create a polygon
 #'
 #' @export
-#' @param coordinates A list of LinearRings, or in json
-#' @param properties A list of properties
+#' @param coordinates a list of LinearRings, or in json
+#' @param properties a list of properties
 #' @family data functions
 #' @return a \code{\link{data-Polygon}} feature
 #' @examples
