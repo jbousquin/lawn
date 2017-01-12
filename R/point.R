@@ -1,9 +1,9 @@
 #' Create a point
 #'
 #' @export
-#' @param coordinates A pair of points in a vector, list or json, of the form
+#' @param coordinates a pair of points in a vector, list or json, of the form
 #' \code{e.g., c(longitude,latitude)}
-#' @param properties A list of properties. Default: NULL
+#' @param properties a list of properties. Default: NULL
 #' @family data functions
 #' @return a \code{\link{data-Point}} feature
 #' @examples
