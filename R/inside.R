@@ -6,8 +6,8 @@
 #'
 #' @export
 #'
-#' @param point Input point
-#' @param polygon Input polygon or multipolygon
+#' @param point input point
+#' @param polygon input polygon or multipolygon
 #' @template lint
 #' @family joins
 #' @return \code{TRUE} if the Point IS inside the Polygon, \code{FALSE} if
