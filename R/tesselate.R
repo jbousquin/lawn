@@ -2,10 +2,10 @@
 #'
 #' Tesselates a \code{\link{data-Polygon}} into a
 #' \code{\link{data-FeatureCollection}} of
-#' triangles using earcut (\url{https://github.com/mapbox/earcut})
+#' triangles using \href{https://github.com/mapbox/earcu}{earcut}
 #'
 #' @export
-#' @param polygon input Polygon feaure
+#' @param polygon input \code{\link{data-Polygon}} feature
 #' @template lint
 #' @family assertions
 #' @return a \code{\link{data-FeatureCollection}}
