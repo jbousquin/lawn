@@ -4,8 +4,8 @@
 #' \code{\link{data-Polygon}}'s and performs a spatial join
 #'
 #' @export
-#' @param points Input \code{\link{data-Point}}
-#' @param polygons Input \code{\link{data-Polygon}} or
+#' @param points input \code{\link{data-Point}}
+#' @param polygons input \code{\link{data-Polygon}} or
 #' \code{\link{data-MultiPolygon}}
 #' @param field property in polygons to add to joined Point features
 #' @param out_field property in points in which to store joined
