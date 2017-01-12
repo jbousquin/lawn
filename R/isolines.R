@@ -5,7 +5,7 @@
 #'
 #' @export
 #'
-#' @param points Input points
+#' @param points input points
 #' @param z (character) the property name in points from which z-values will be pulled
 #' @param resolution (numeric) resolution of the underlying grid
 #' @param breaks (numeric) where to draw contours
