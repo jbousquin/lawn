@@ -1,12 +1,12 @@
 #' Get nearest point
 #'
-#' Takes a reference \code{\link{data-Point}} and a set of points and returns the point from
+#' Takes a reference \code{\link{data-Point}} and a set of points to compare it against and returns the point from
 #' the set closest to the reference
 #'
 #' @export
 #'
-#' @param point The reference point, a \code{\link{data-Feature}}
-#' @param against Input point set, a \code{\link{data-FeatureCollection}}
+#' @param point the reference point, a \code{\link{data-Feature}}
+#' @param against input point set, a \code{\link{data-FeatureCollection}}
 #' @template lint
 #' @family classification
 #' @return A \code{\link{data-Point}} as a Feature
