@@ -6,10 +6,8 @@
 #' @export
 #' @template math
 #' @family aggregations
-#' @return a FeatureCollection of \code{\link{data-Polygon}} features with
-#' properties listed as \code{out_field}
 #' @template lint
-#' @return A FeatureCollection of \code{\link{data-Polygon}} features with
+#' @return a FeatureCollection of \code{\link{data-Polygon}} features with
 #' properties listed as \code{out_field}
 #' @examples \dontrun{
 #' poly <- lawn_data$polygons_average
