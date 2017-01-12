@@ -4,8 +4,8 @@
 #' union of the two
 #'
 #' @export
-#' @param poly1 A polygon
-#' @param poly2 A polygon
+#' @param poly1 a polygon
+#' @param poly2 a polygon
 #' @template lint
 #' @family transformations
 #' @return a combined \code{\link{data-Polygon}} or
