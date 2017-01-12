@@ -1,8 +1,8 @@
 #' Create a linestring
 #'
 #' @export
-#' @param coordinates A list of Positions
-#' @param properties A list of properties
+#' @param coordinates a list of Positions
+#' @param properties a list of properties
 #' @family data functions
 #' @return a \code{\link{data-LineString}} feature
 #' @examples
