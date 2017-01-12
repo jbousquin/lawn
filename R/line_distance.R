@@ -4,8 +4,8 @@
 #' the specified units.
 #'
 #' @export
-#' @param line Line to measure, a \code{\link{data-LineString}}
-#' @param units Can be degrees, radians, miles, or kilometers
+#' @param line line to measure, a \code{\link{data-LineString}}
+#' @param units can be degrees, radians, miles, or kilometers
 #' @template lint
 #' @family measurements
 #' @return length of the input line (numeric)
